@@ -1,6 +1,9 @@
 This is a Chrome web Extension. That enables extra key detection In scratch like shift, control, right-click, etc... detection.
+This code is also equipped to work in turbowarp. 
 
-This code is also equipped to work in turbowarp.
+Note: despite this code being compatible it is in no way associated with scratch or turbo warp and is completely unofficial.
+-------------------
+
 
 How to use
 -----------------------------------------------
