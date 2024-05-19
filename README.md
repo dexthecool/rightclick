@@ -14,7 +14,7 @@ There is a conversion chart inside the zip files.
 choosing a version
 --------------------------------------------------------
 "adding middle click and Modifying keys" Contains all the following key detections: 
- Right-click, Middle-click, Ctrl, Alt, Shift, Escape, and delete
+ Right-click, Middle-click, Ctrl, Alt, Shift, Escape, delete, Backspace, and capslock.
   
   ------------------------
 "Final hold right click" can only detect right click.
