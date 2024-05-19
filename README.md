@@ -2,4 +2,33 @@ This is a Chrome web Extension. That enables extra key detection In scratch like
 
 This code is also equipped to work in turbowarp.
 
-Loading V1
+How to use
+-----------------------------------------------
+View example code: https://scratch.mit.edu/projects/1022224288/
+It's really simple it just emulates a foreign character being pressed.
+There is a conversion chart inside the zip files.
+
+choosing a version
+--------------------------------------------------------
+"adding middle click and Modifying keys" Contains all the following key detections: 
+ Right-click, Middle-click, Ctrl, Alt, Shift, Escape, and delete
+  
+  ------------------------
+"Final hold right click" can only detect right click.
+
+How to load:
+-----------------------------------------------------------------------------------------------------
+
+Loading "Final hold right click":
+
+Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow these instructions to load into chrome: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
+
+Method two: Download from chrome web store: Pending review.
+
+------------------------------------------------------------------------------
+
+Loading "adding middle click and Modifying keys":
+
+Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow these instructions to load into chrome: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
+
+Method two: Download from chrome web store: Pending review.
