@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Scratch modifying key detection lite",
+  "version": "1.0",
+  "description": "enables right mouse click Detection on Scratch and turbowarp.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://scratch.mit.edu/*",
+        "https://turbowarp.org/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}
