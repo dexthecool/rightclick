@@ -19,7 +19,7 @@ choosing a version
 How to load:
 -----------------------------------------------------------------------------------------------------
 
-Loading "Final hold right click":
+Loading "Final hold right click.zip":
 
 Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow these instructions to load into chrome: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
 
@@ -27,7 +27,7 @@ Method two: Download from chrome web store: Pending review.
 
 ------------------------------------------------------------------------------
 
-Loading "adding middle click and Modifying keys":
+Loading "adding middle click and Modifying keys.zip":
 
 Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow these instructions to load into chrome: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
 
