@@ -24,14 +24,14 @@ How to load:
 
 Loading "Final hold right click.zip":
 
-Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow these instructions to load into chrome: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
+Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow  [these instructions](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) to load into chrome. 
 
-Method two: Download from chrome web store: Pending review.
+Method two: [Download from chrome web store](https://chromewebstore.google.com/detail/scratch-modifying-key-det/mjcbehameapalhjkalgiofbbabakfnoi?hl=en&authuser=0)
 
 ------------------------------------------------------------------------------
 
 Loading "adding middle click and Modifying keys.zip":
 
-Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow these instructions to load into chrome: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
+Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow [these instructions](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) to load into chrome.
 
-Method two: Download from chrome web store: Pending review.
+Method two: [Download from chrome web store](https://chromewebstore.google.com/detail/scratch-modifying-key-det/oiglgpgmfjaenfecmklegkmnmheoaefc?hl=en&authuser=0)
