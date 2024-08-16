@@ -3,7 +3,7 @@ This code is also equipped to work in turbowarp.
 
 Note: despite this code being compatible it is in no way associated with scratch or turbo warp and is completely unofficial.
 -------------------
-
+I know I need to fix right click suppression might do that sometime.
 
 How to use
 -----------------------------------------------
