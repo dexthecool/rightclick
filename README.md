@@ -13,7 +13,7 @@ There is a conversion chart inside the zip files.
 
 choosing a version
 --------------------------------------------------------
-"full_v2" Contains all the following key detections: 
+"mainv2" Contains all the following key detections: 
  Right-click, Middle-click, Ctrl, Alt, Shift, Escape, delete, Backspace, and capslock.
   
 ------------------------
@@ -21,7 +21,7 @@ choosing a version
 
 How to load:
 -----------------------------------------------------------------------------------------------------
-Loading "full_v2":
+Loading "mainv2":
 
 Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow [these instructions](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) to load into chrome.
 
