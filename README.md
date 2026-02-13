@@ -13,25 +13,23 @@ There is a conversion chart inside the zip files.
 
 choosing a version
 --------------------------------------------------------
-"adding middle click and Modifying keys" Contains all the following key detections: 
+"full_v2" Contains all the following key detections: 
  Right-click, Middle-click, Ctrl, Alt, Shift, Escape, delete, Backspace, and capslock.
   
-  ------------------------
-"Final hold right click" can only detect right click.
+------------------------
+~~"Final hold right click" can only detect right click.~~ Discontinued
 
 How to load:
 -----------------------------------------------------------------------------------------------------
-
-Loading "Final hold right click.zip":
-
-Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow  [these instructions](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) to load into chrome. 
-
-Method two: [Download from chrome web store](https://chromewebstore.google.com/detail/scratch-modifying-key-det/mjcbehameapalhjkalgiofbbabakfnoi?hl=en&authuser=0)
-
-------------------------------------------------------------------------------
-
-Loading "adding middle click and Modifying keys.zip":
+Loading "full_v2":
 
 Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow [these instructions](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) to load into chrome.
 
 Method two: [Download from chrome web store](https://chromewebstore.google.com/detail/scratch-modifying-key-det/oiglgpgmfjaenfecmklegkmnmheoaefc?hl=en&authuser=0)
+
+------------------------------------------------------------------------------
+~~Loading "Final hold right click.zip":~~
+
+~~Method one:  1. Download and unzip. 2. grab the three files out 3. place them in a folder 4. follow  [these instructions](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) to load into chrome.~~ 
+
+~~Method two: [Download from chrome web store](https://chromewebstore.google.com/detail/scratch-modifying-key-det/mjcbehameapalhjkalgiofbbabakfnoi?hl=en&authuser=0)~~

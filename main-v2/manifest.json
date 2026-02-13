@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Scratch modifying key detection full",
+  "version": "2.0",
+  "description": "Enables detection of modifying keys like right-click, control, or shift on scratch and turbowarp.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://scratch.mit.edu/*",
+        "https://turbowarp.org/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}
